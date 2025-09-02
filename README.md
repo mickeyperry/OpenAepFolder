@@ -1,4 +1,4 @@
-# OpenProjectFolder
+# OpenAepFolder
 
 Quick After Effects script to open the current project's folder in File Explorer/Finder.
 
